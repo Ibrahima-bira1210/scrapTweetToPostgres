@@ -1,0 +1,3 @@
+responses:
+  200:
+    description: A confirmation that scrapping from twitter is succesfully done
